@@ -1,0 +1,6 @@
+to run:
+
+phpmyadmin is required
+-need to import database script (highlanderdb)
+
+-run through MS Visual Studio
